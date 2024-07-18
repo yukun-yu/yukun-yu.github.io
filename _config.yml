@@ -17,7 +17,7 @@ cv_link: assets/files/YukunYu_CV.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: .assets/img/avator.png
+avatar: .assets/img/avatar.png
 favicon: .assets/img/UIUC_favicon.png
 favicon_dark: .assets/img/UIUC_favicon.png
 
