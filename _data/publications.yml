@@ -1,9 +1,9 @@
 main:
 
   - title: Syntactic Adaptation and Word Learning in 3- to 4-Year-Olds
-    authors: <strong>Yukun Yu*</strong>, Naomi Havron, Cynthia Fisher (*Corresponding authors)
-    conference_short: MICCAI
-    conference: Language Learning <strong>(MICCAI)</strong>, 2024.
+    authors: <strong>Yukun Yu*</strong>, Naomi Havron, Cynthia Fisher
+    conference_short: Language Learning
+    conference: Language Learning, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    image: ./assets/img/teaser_example_2.png
+    image: .assets/img/Red_example.jpg
     notes: In Press
