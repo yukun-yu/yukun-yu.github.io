@@ -4,6 +4,27 @@ main:
     authors: <strong>Yukun Yu*</strong>, Naomi Havron, Cynthia Fisher
     conference_short: Publication
     conference: Language Learning, 2024.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    image: .assets/img/Red_example.jpg
+    pdf: assets/files/Yu-et-al-2024.pdf
+    image: assets/img/Red_example.jpg
     notes: In Press
+
+  - title: Preschoolers’ Use of Verb and Event Knowledge in Online Reference Comprehension
+    authors: <strong>Yukun Yu*</strong>, Amanda Rose Yuile, Damian Ishak, Cynthia Fisher
+    conference_short: Poster
+    conference: 37th Annual Conference on Human Sentence Processing, 2024.
+    pdf: assets/files/HSP-2024.pdf
+    image: assets/img/Playback_example.jpg
+
+  - title: Adaptation to Recent Linguistic Experience Guides New Word Learning in Toddlers
+    authors: <strong>Yukun Yu*</strong>, Naomi Havron, Sandra Waxman, Cynthia Fisher
+    conference_short: Poster
+    conference: 48th Annual Boston University Conference on Language Development, 2023.
+    pdf: assets/files/BUCLD-2023.pdf
+    image: assets/img/BabyZoo2_example-2.jpg
+    
+  - title: Syntactic Adaptation and Long-term Retention Guide Word Learning in Toddlers
+    authors: <strong>Yukun Yu*</strong>, Naomi Havron, Sandra Waxman, Cynthia Fisher
+    conference_short: Poster
+    conference: 36th Annual Conference on Human Sentence Processing, 2023.
+    pdf: assets/files/HSP-2023.pdf
+    image: assets/img/BabyZoo2_example-1.jpg
