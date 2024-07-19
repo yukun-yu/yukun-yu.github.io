@@ -14,6 +14,7 @@ Beyond academia, I find joy in capturing fleeting moments with instant cameras. 
 - **Syntactic Adaptation:** syntactic ambiguity resolution, syntactic priming, verb bias adaptation
 - **Increamental Language Processing:** online language comprehension, prediction, error-based implicit learning
 
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/presentations.md %}
@@ -24,4 +25,12 @@ Beyond academia, I find joy in capturing fleeting moments with instant cameras. 
 - **[Jan.2023]** Career Exploration Fellowship ($5000)
 - **[Mar.2022]** Teachers Ranked as Excellent by Their Students
 
+
 {% include_relative _includes/services.md %}
+
+
+## Teaching
+
+- **Child Development**: Fall 2019, Spring 2019, Summer 2020, Fall 2022
+- **Developmental Child Psych Lab**: Fall 2021, Summer 2022, Fall 2023, Summer 2024, Fall 2024
+
